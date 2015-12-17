@@ -1,0 +1,24 @@
+{
+  "name": "version-git",
+  "version": "0.0.2",
+  "description": "Simple version generator based on local git hash",
+  "keywords": [
+    "version",
+    "git"
+  ],
+  "author": {
+    "name": "Dov Amihod"
+  },
+  "dependencies": {},
+  "main": "index",
+  "engines": {
+    "node": ">= 0.4.0 < 0.9.0"
+  },
+  "_id": "version-git@0.0.2",
+  "readme": "ERROR: No README.md file found!",
+  "dist": {
+    "shasum": "80e9d2e7d7b4d4051376442dc323be48f41ec1b4"
+  },
+  "_from": "version-git@*",
+  "_resolved": "https://registry.npmjs.org/version-git/-/version-git-0.0.1.tgz"
+}
